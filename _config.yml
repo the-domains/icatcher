@@ -1,6 +1,6 @@
 name: iCatcher
 favicon: null
-layout_spectrum: 0.11433329316787422
+layout_spectrum: 0
 typography_spectrum: 0.3032823451794684
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.961302112787962
-  lightness: 0.11421992513351142
-  saturation: 0.5074917441233993
-  rhythmicContrast: 0.8382542517501861
+    - '#ffffff'
+    - '#f66e14'
+    - '#020303'
+    - '#c7c7c7'
+    - '#676868'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
